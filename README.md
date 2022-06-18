@@ -1,1 +1,2 @@
-# DjangoURL
+# DjangoModels
+Working with django models
